@@ -1,1 +1,1 @@
-# eeg-sst-emotionet
+# gsbci-train
